@@ -1,0 +1,47 @@
+
+const products=[{
+    id:"h2b3ih12",
+    image:'./images/img/img-1.png',
+    name:'burger',
+    price:100
+},{
+    id:"h2b3injym5%",
+    image:'./images/img/img-2.png',
+    name:'burger',
+    price:100
+},{
+    id:"h2N#%%$h12",
+    image:'./images/img/img-2.png',
+    name:'burger',
+    price:100
+},
+{
+    id:"h2#$%GF12",
+    image:'./images/img/img-2.png',
+    name:'burger',
+    price:100
+},
+{
+    id:"h267ih12",
+    image:'./images/img/img-2.png',
+    name:'burger',
+    price:100
+},
+{
+    id:"h2b3ifnrt12",
+    image:'./images/img/img-2.png',
+    name:'burger',
+    price:100
+},
+{
+    id:"h2b3bih12",
+    image:'./images/img/img-2.png',
+    name:'burger',
+    price:100
+},
+{
+    id:"h2bwefih12",
+    image:'./images/img/img-2.png',
+    name:'burger',
+    price:100
+}]
